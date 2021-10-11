@@ -1,0 +1,57 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  background-image: url(background.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Indie Flower', cursive;
+  font-size: large;
+}
+img {
+  border-radius: 50%;
+}
+p {
+  padding: 0 100px;
+}
+#message {
+  resize: none;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+#form {
+  display: flex;
+}
+.formElement {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+input {
+  margin-top: 10px;
+}
+textarea {
+  margin-top: 10px;
+}
+#send {
+  width: 100%;
+  background-color: rgb(235, 191, 198);
+  font-family: 'Shadows Into Light', cursive;
+  font-size: large;
+  font-weight:bolder;
+  border-radius: 10px;
+  border-color: rgb(139, 180, 185);
+}
+video{
+  margin: 20px 0;
+}
+hr{
+  width: 70%;
+  margin: 30px 0;
+}
