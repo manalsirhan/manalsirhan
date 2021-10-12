@@ -84,3 +84,14 @@ a:hover{
   width: 50%;
   margin: 50px 0;
 }
+th{
+  vertical-align: top;
+}
+table {
+  border-spacing: 30px;
+  margin-bottom: 100px;
+}
+#hobbies{
+  margin-bottom: 100px;
+  padding: 0 100px;
+}
